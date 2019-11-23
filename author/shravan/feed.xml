@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/author/shravan/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2019-11-23T13:57:08+00:00</updated>
+  <updated>2019-11-23T14:09:59+00:00</updated>
   <id>/blog/author/shravan/feed.xml</id>
 
   
@@ -36,8 +36,8 @@
 
   
     <entry>
-      <title type="html">Tips for outstation Participants</title>
-      <link href="/blog/tips-for-outstation-participants" rel="alternate" type="text/html" title="Tips for outstation Participants" />
+      <title type="html">Tips for Outstation Participants</title>
+      <link href="/blog/tips-for-outstation-participants" rel="alternate" type="text/html" title="Tips for Outstation Participants" />
       <published>2019-11-23T01:00:00+00:00</published>
       <updated>2019-11-23T01:00:00+00:00</updated>
       <id>/blog/tips-for-outstation-participants</id>
@@ -76,7 +76,7 @@
   &lt;li&gt;Surathkal (Station Code: SL)&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;There are frequent local bus services from these stations to reach NITK, Surathkal which provide services at a very afforadable cost - less than Rs. 30. Participants are suggested to take a local bus from the railway station.&lt;/p&gt;
+&lt;p&gt;There are frequent local bus services from these stations to reach NITK, Surathkal which provide services at a very afforadable cost - less than Rs. 30. Participants are suggested to take a local bus from the railway station. Local Bus services start as early as 6 am in the morning, and are available at every 5-10 mins interval.&lt;/p&gt;
 
 &lt;h3 id=&quot;travelling-through-flight&quot;&gt;Travelling through Flight&lt;/h3&gt;
 
@@ -108,13 +108,15 @@
         
           &lt;input class=&quot;carousel__activator&quot; type=&quot;radio&quot; name=&quot;carousel&quot; id=&quot;d&quot; /&gt;
         
+          &lt;input class=&quot;carousel__activator&quot; type=&quot;radio&quot; name=&quot;carousel&quot; id=&quot;e&quot; /&gt;
+        
         
           
           
           
           
           &lt;div class=&quot;carousel__controls&quot;&gt;
-              &lt;label class=&quot;carousel__control carousel__control--backward&quot; for=&quot;d&quot;&gt;&lt;/label&gt;
+              &lt;label class=&quot;carousel__control carousel__control--backward&quot; for=&quot;e&quot;&gt;&lt;/label&gt;
               &lt;label class=&quot;carousel__control carousel__control--forward&quot; for=&quot;b&quot;&gt;&lt;/label&gt;
           &lt;/div&gt;
         
@@ -142,6 +144,15 @@
           
           &lt;div class=&quot;carousel__controls&quot;&gt;
               &lt;label class=&quot;carousel__control carousel__control--backward&quot; for=&quot;c&quot;&gt;&lt;/label&gt;
+              &lt;label class=&quot;carousel__control carousel__control--forward&quot; for=&quot;e&quot;&gt;&lt;/label&gt;
+          &lt;/div&gt;
+        
+          
+          
+          
+          
+          &lt;div class=&quot;carousel__controls&quot;&gt;
+              &lt;label class=&quot;carousel__control carousel__control--backward&quot; for=&quot;d&quot;&gt;&lt;/label&gt;
               &lt;label class=&quot;carousel__control carousel__control--forward&quot; for=&quot;a&quot;&gt;&lt;/label&gt;
           &lt;/div&gt;
         
@@ -153,6 +164,8 @@
             &lt;li class=&quot;carousel__slide&quot; style=&quot;background-image: url('./assets/images/nitk/aerial-cse.jpg');&quot;&gt;&lt;/li&gt;
             
             &lt;li class=&quot;carousel__slide&quot; style=&quot;background-image: url('./assets/images/nitk/kite-fest.jpg');&quot;&gt;&lt;/li&gt;
+            
+            &lt;li class=&quot;carousel__slide&quot; style=&quot;background-image: url('./assets/images/nitk/entrance.png');&quot;&gt;&lt;/li&gt;
             
             &lt;li class=&quot;carousel__slide&quot; style=&quot;background-image: url('./assets/images/nitk/aerial-mech.jpg');&quot;&gt;&lt;/li&gt;
             
@@ -167,6 +180,8 @@
               &lt;label class=&quot;carousel__indicator&quot; for=&quot;c&quot;&gt;&lt;/label&gt;
             
               &lt;label class=&quot;carousel__indicator&quot; for=&quot;d&quot;&gt;&lt;/label&gt;
+            
+              &lt;label class=&quot;carousel__indicator&quot; for=&quot;e&quot;&gt;&lt;/label&gt;
             
         &lt;/div&gt;
     &lt;/div&gt;
@@ -279,6 +294,29 @@
   opacity: 1;
 }
 
+.carousel__activator:nth-of-type(5):checked ~ .carousel__track {
+  -webkit-transform: translateX(-400%);
+          transform: translateX(-400%);
+}
+.carousel__activator:nth-of-type(5):checked ~ .carousel__slide:nth-of-type(5) {
+  transition: opacity 0.5s, -webkit-transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s;
+  transition: opacity 0.5s, transform 0.5s, -webkit-transform 0.5s;
+  top: 0;
+  left: 0;
+  right: 0;
+  opacity: 1;
+  -webkit-transform: scale(1);
+          transform: scale(1);
+}
+.carousel__activator:nth-of-type(5):checked ~ .carousel__controls:nth-of-type(5) {
+  display: block;
+  opacity: 1;
+}
+.carousel__activator:nth-of-type(5):checked ~ .carousel__indicators .carousel__indicator:nth-of-type(5) {
+  opacity: 1;
+}
+
 
 .carousel__control {
   height: 30px;
@@ -368,6 +406,11 @@
           transform: translateX(300%);
 }
 
+.carousel__track .carousel__slide:nth-of-type(5) {
+  -webkit-transform: translateX(400%);
+          transform: translateX(400%);
+}
+
 
 .carousel--scale .carousel__slide {
   -webkit-transform: scale(0);
@@ -408,6 +451,12 @@
 
 .carousel__slide:nth-of-type(4),
 .carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(4) {
+  background-size: cover;
+  background-position: center;
+}
+
+.carousel__slide:nth-of-type(5),
+.carousel--thumb .carousel__indicators .carousel__indicator:nth-of-type(5) {
   background-size: cover;
   background-position: center;
 }
