@@ -1,4 +1,60 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2019-11-17T19:33:52+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">Welcome HackVerse</title><link href="/blog/welcome" rel="alternate" type="text/html" title="Welcome HackVerse" /><published>2019-11-16T10:00:00+00:00</published><updated>2019-11-16T10:00:00+00:00</updated><id>/blog/welcome</id><content type="html" xml:base="/blog/welcome">&lt;p&gt;NITK, Surathkal!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2019-11-23T11:15:24+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">Tips for outstation Participants</title><link href="/blog/tips-for-outstation-participants" rel="alternate" type="text/html" title="Tips for outstation Participants" /><published>2019-11-23T01:00:00+00:00</published><updated>2019-11-23T01:00:00+00:00</updated><id>/blog/tips-for-outstation-participants</id><content type="html" xml:base="/blog/tips-for-outstation-participants">&lt;p&gt;Congratulations on getting selected for HackVerse ‘20.&lt;/p&gt;
+
+&lt;p&gt;We are super excited to host you at our campus, NITK, Surathkal and we look forward to meeting you and see what you create!&lt;/p&gt;
+
+&lt;p&gt;This blog is aimed to give you a few tips and suggestions so that your journey to HackVerse, NITK, Surathkal and stay here will be as hassle free as possible.&lt;/p&gt;
+
+&lt;p&gt;Before we proceed ahead, take a look at the beautiful campus you’re going to visit.&lt;/p&gt;
+
+&lt;p&gt;NITKians proudly flaunt about being the only college in India to have a private beach, and it’s your chance to spend a weekend coding, and working on an idea nearby the beach.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/nitk/collage-beach.jpg&quot; alt=&quot;NITK, Surathkal Beach&quot; height=&quot;500px&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;accomodation&quot;&gt;Accomodation&lt;/h2&gt;
+
+&lt;p&gt;All the participants coming from outside will be provided accommodation at NITK, Surathkal for all the 3 days - 24th to 26th of January. Matresses will be provided for a comfortable sleep.&lt;/p&gt;
+
+&lt;h2 id=&quot;reaching-nitk&quot;&gt;Reaching NITK&lt;/h2&gt;
+
+&lt;p&gt;NITK, Surathkal is a lush green campus on the shores of the Arabian sea, nourished and blessed by the monsoon showers.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/nitk/aerial-nitk.jpg&quot; alt=&quot;Green Aerial NITK Surathkal&quot; height=&quot;500px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There are many options to travel to the campus.&lt;/p&gt;
+
+&lt;h3 id=&quot;travelling-through-train&quot;&gt;Travelling through train&lt;/h3&gt;
+
+&lt;p&gt;If you plan to travel to NITK, Surathkal by train, following are the primary railway stations nearby the campus.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Mangalore Junction (Station Code: MAJN)&lt;/li&gt;
+  &lt;li&gt;Mangalore Central (Station Code: MAQ)&lt;/li&gt;
+  &lt;li&gt;Surathkal (Station Code: SL)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;There are frequent local bus services from these stations to reach NITK, Surathkal which provide services at a very afforadable cost - less than Rs. 30. Participants are suggested to take a local bus from the railway station.&lt;/p&gt;
+
+&lt;h3 id=&quot;travelling-through-flight&quot;&gt;Travelling through Flight&lt;/h3&gt;
+
+&lt;p&gt;If you plan to travel to NITK, Surathkal by a flight, the nearest airport to NITK, Surathkal is the Mangalore Airport at a distance of around 20 kms, taxi services are available from the airport to reach NITK, Surathkal. They usually take 30 mins maximum to reach the campus.&lt;/p&gt;
+
+&lt;h3 id=&quot;travelling-through-bus&quot;&gt;Travelling through Bus&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;For participants in and around Mangalore, Udupi or Manipal, there are plenty of local buses which ply very frequently from the main gate. You can reach NITK very easily using these services.&lt;/li&gt;
+  &lt;li&gt;For participants from Bangalore and Mysore, there a plenty of bus services available (SRS, Orange, VRL, Durgamba, Pragathi etc). These buses generally stop right in front of NITK.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;We hope this helps you figure out the logistics of getting to NITK, Surathkal. If you have any further doubts, please join our Telegram Group, one of the organizers will help you out. Link: &lt;a href=&quot;https://t.me/hackverse&quot;&gt;https://t.me/hackverse&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;We can’t wait to meet you at the hacking arena and see what you create!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/nitk/lhcc.jpg&quot; alt=&quot;LHC-C NITK Surathkal&quot; height=&quot;450px&quot; /&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;credits&quot;&gt;Credits&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Picture Credits: &lt;a href=&quot;https://appmech.nitk.ac.in/faculty/pruthviraj-u&quot;&gt;Prof. Pruthiviraj Umesh&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Shravan Shenoy</name></author><category term="hackverse" /><summary type="html">Congratulations on getting selected for HackVerse ‘20.</summary></entry><entry><title type="html">Welcome HackVerse</title><link href="/blog/welcome" rel="alternate" type="text/html" title="Welcome HackVerse" /><published>2019-11-16T10:00:00+00:00</published><updated>2019-11-16T10:00:00+00:00</updated><id>/blog/welcome</id><content type="html" xml:base="/blog/welcome">&lt;p&gt;NITK, Surathkal!&lt;/p&gt;
 
 &lt;p&gt;This page is still being edited! Till then, Why don’t you apply to HackVerse? Apply &lt;a href=&quot;https://hackverse.nitk.ac.in&quot;&gt;here&lt;/a&gt;&lt;/p&gt;
 
