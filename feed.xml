@@ -1,4 +1,75 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2019-11-24T05:05:52+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">Tips for Outstation Participants</title><link href="/blog/tips-for-outstation-participants" rel="alternate" type="text/html" title="Tips for Outstation Participants" /><published>2019-11-23T01:00:00+00:00</published><updated>2019-11-23T01:00:00+00:00</updated><id>/blog/tips-for-outstation-participants</id><content type="html" xml:base="/blog/tips-for-outstation-participants">&lt;p&gt;Congratulations on getting selected for HackVerse ‘20!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2019-12-13T12:18:52+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">Why Attend Hackathons</title><link href="/blog/why-attend-hackathons" rel="alternate" type="text/html" title="Why Attend Hackathons" /><published>2019-12-13T01:00:00+00:00</published><updated>2019-12-13T01:00:00+00:00</updated><id>/blog/why-attend-hackathons</id><content type="html" xml:base="/blog/why-attend-hackathons">&lt;p&gt;Learn more about why you should attend hackathons and what makes HackVerse special!&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-a-hackathon&quot;&gt;What is a hackathon?&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“A hackathon, a hacker neologism, is an event when programmers meet to do collaborative computer programming.” - &lt;a href=&quot;http://en.wikipedia.org/wiki/Hackathon&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Hackathons are awesome places to build solutions to real-world problems and express the creativity through technology within a short period of time, with like-minded enthusiastic people.&lt;/p&gt;
+
+&lt;h1 id=&quot;why-should-you-attend-hackathons&quot;&gt;Why should you attend hackathons?&lt;/h1&gt;
+
+&lt;h3 id=&quot;create-things-that-matter&quot;&gt;Create things that matter&lt;/h3&gt;
+
+&lt;p&gt;Did you know that “GroupMe” a group messaging app acquired by Skype for over $50 million was built during a hackathon? Or the Facebook “Like” button &amp;amp; Facebook chat being built in an internal company hackathon?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/why-attend/groupme-fb.png&quot; alt=&quot;GroupMe &amp;amp; Facebook&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;There have been countless similar examples that show that hackathons are serious events that can potentially have a long-lasting impact on our day to day lives. And we expect each and everyone coming here to aim for a similar impact, nothing less!&lt;/p&gt;
+
+&lt;h3 id=&quot;acquire-art-of-delivery&quot;&gt;Acquire Art of Delivery&lt;/h3&gt;
+
+&lt;p&gt;Remember Yahoo Answers before the era of Quora?  Or pets.com?
+In the real world, the delivery and presentation of a product is equally important if not more important than the code itself. However, this is not something that is ever taught to us. Hackathons will teach you the importance of this art, and you surely do not want to miss out on that, do you?&lt;/p&gt;
+
+&lt;h3 id=&quot;you-win-or-you-learn&quot;&gt;You Win or You Learn&lt;/h3&gt;
+
+&lt;p&gt;You can interact with awesome programmers from various backgrounds and observe their ideas, thought process and approach. It is a fantastic opportunity to broaden your mind and learn a lot, be it the state-of-the-art technology or the newest libraries in the field of your choice!&lt;/p&gt;
+
+&lt;h1 id=&quot;why-attend-hackverse&quot;&gt;Why attend HackVerse?&lt;/h1&gt;
+
+&lt;p&gt;Hackathons are really exciting places to be, and HackVerse aims to take it a whole new level!&lt;/p&gt;
+
+&lt;p&gt;We’re really excited to be a part of this hackathon! And you should be too! We’ve got a great team, great sponsors, and lots of great ideas bubbling. To make sure you fully enjoy yourself in this hackathon and make the most of the occasion, here are some things you might want to keep in mind.&lt;/p&gt;
+
+&lt;h3 id=&quot;most-importantly-to-have-fun&quot;&gt;Most importantly to have FUN&lt;/h3&gt;
+
+&lt;p&gt;Be it the adrenaline rush during the last 15 minutes of building, meeting like-minded geeks, NITK’s private beach, some cultural events, some really fun activities at night or the lush greenery spread across 300 acres, you will have something to enjoy every moment here.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/why-attend/fun-beach-bd.png&quot; alt=&quot;Fun, Beach, NITK Surathkal, Cultural Event&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;boost-your-resume&quot;&gt;Boost your Resume&lt;/h3&gt;
+
+&lt;p&gt;Most companies and startups prefer enthusiastic students who have built innovative solutions using the latest technologies to solve real-world problems. The prototype you exhibit here, could potentially boost your resume and enable you to stand apart from the crowd. Who knows you’ll build the next product like “GroupMe”, Maybe you might get hired?&lt;/p&gt;
+
+&lt;h3 id=&quot;network-network-and-network&quot;&gt;Network, Network, and Network&lt;/h3&gt;
+
+&lt;p&gt;Hackathons are a great place to meet like-minded people and exchange ideas, insights and collaborate. HackVerse has introduced a trademark event called &lt;strong&gt;Meet-and-Greet&lt;/strong&gt;. This session will be completely dedicated to meeting other participants and mentors. You can meet new people, make new friends, get to listen to different perspectives, clarify your doubts and get guidance from mentors. In short, this session is aimed to help you build a strong network with people across all regions, fields, and experience, which we believe will help you in the long run, even after the hackathon is over.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;./assets/images/why-attend/networking.jpg&quot; alt=&quot;Networking&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;prizes&quot;&gt;Prizes&lt;/h3&gt;
+
+&lt;p&gt;After all of this, Prizes are the last thing one would look for. Prizes although may seem like great motivators but the are ineffective at building communities and creating long-term enegagement. If a hackathon prize is too large, people who hack because of passion will likely be turned off. Focusing too much on prizes can make those who are there out of passion or to learn something new feel like their experience is not valued by their peers or the event organizers.&lt;/p&gt;
+
+&lt;p&gt;We assure there are huge prizes in terms of cash and the swags for the winners and everyone who attends, but we don’t recommend attending HackVerse or any other hackathon solely for prizes.&lt;/p&gt;
+
+&lt;p&gt;The ethos of HackVerse is thus to bring the experience of hackathon to you, give you a platform where you can  learn and excel.&lt;/p&gt;
+
+&lt;p&gt;So what are you waiting for! Unleash your coding skills and show us that you deserve to be here. Register here: &lt;a href=&quot;https://hackverse.nitk.ac.in&quot;&gt;https://hackverse.nitk.ac.in&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Join our Telegram Group to meet other like minded hackers: &lt;a href=&quot;https://t.me/hackverse&quot;&gt;https://t.me/hackverse&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;references--credits&quot;&gt;References &amp;amp; Credits&lt;/h4&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/hackathons-anonymous/wtf-is-a-hackathon-92668579601&quot;&gt;WTF is a hackathon?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/tfogo/hackathons-are-for-beginners-77a9c9c0e000&quot;&gt;Hackathons are for Beginners&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.mlh.io/are-hackathon-prizes-the-worst-thing-since-moldy-sliced-bread-04-18-2014&quot;&gt;Are Hackathon Prizes The Worst Thing Since Moldy Sliced Bread?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Picture Credits: &lt;a href=&quot;https://appmech.nitk.ac.in/faculty/pruthviraj-u&quot;&gt;Prof. Pruthiviraj Umesh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.americaninno.com/dc/inno-approved-dc-tech-events-to-know-about-this-week-512-525/&quot;&gt;Networking Image&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name>Shravan Shenoy</name></author><category term="hackverse" /><summary type="html">Learn more about why you should attend hackathons and what makes HackVerse special!</summary></entry><entry><title type="html">Tips for Outstation Participants</title><link href="/blog/tips-for-outstation-participants" rel="alternate" type="text/html" title="Tips for Outstation Participants" /><published>2019-11-23T01:00:00+00:00</published><updated>2019-11-23T01:00:00+00:00</updated><id>/blog/tips-for-outstation-participants</id><content type="html" xml:base="/blog/tips-for-outstation-participants">&lt;p&gt;Congratulations on getting selected for HackVerse ‘20!&lt;/p&gt;
 
 &lt;p&gt;We are super excited to host you at our campus, NITK, Surathkal and we look forward to meeting you and see what you create!&lt;/p&gt;
 
