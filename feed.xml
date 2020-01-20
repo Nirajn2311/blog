@@ -1,12 +1,18 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2020-01-20T10:50:00+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">API Prizes and Hacks!!</title><link href="/blog/hacks" rel="alternate" type="text/html" title="API Prizes and Hacks!!" /><published>2020-01-19T10:00:00+00:00</published><updated>2020-01-19T10:00:00+00:00</updated><id>/blog/hacks</id><content type="html" xml:base="/blog/hacks">&lt;p&gt;All set for the Hackathon but still running short of ideas, we have something in store for you!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2020-01-20T19:05:14+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">HackVerse’20 API Prizes and Hacks!</title><link href="/blog/hacks" rel="alternate" type="text/html" title="HackVerse'20 API Prizes and Hacks!" /><published>2020-01-19T10:00:00+00:00</published><updated>2020-01-19T10:00:00+00:00</updated><id>/blog/hacks</id><content type="html" xml:base="/blog/hacks">&lt;p&gt;All set for the Hackathon but still running short of ideas, we have something in store for you!&lt;/p&gt;
 
 &lt;p&gt;We present to you, API prizes from our sponsors Matic and Zulip. Build on top of these to win exciting prizes! You can find more details of their prizes and guidelines in the following links:&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://paper.dropbox.com/doc/Matic-Ethereum-Track-Prize-FToXnL0x0THdKv7C3PaT9&quot;&gt;Matic Etherium API Prize&lt;/a&gt; (The best hack built on Ethereum will be awarded Rs 20,000. Rs 25,000 would be awarded if Matic is also used along with Ethereum.)&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://paper.dropbox.com/doc/Zulip-Bot-Prize-vZuqxEnsfhEReqKucdlfB&quot;&gt;Zulip API Prize&lt;/a&gt;&lt;/li&gt;
+&lt;ul style=&quot;list-style-type: circle;&quot;&gt;
+    &lt;li&gt; &lt;a href=&quot;https://paper.dropbox.com/doc/Matic-Ethereum-Track-Prize-FToXnL0x0THdKv7C3PaT9&quot;&gt;Matic Etherium API Prize&lt;/a&gt; &lt;/li&gt;
+    &lt;ul&gt;
+        &lt;li&gt;Rs.20000 to best hack built on Ethereum &lt;/li&gt;
+        &lt;li&gt;Rs. 25000 if Matic is also used along with Ethereum &lt;/li&gt;
+    &lt;/ul&gt;
+    &lt;li&gt; &lt;a href=&quot;https://paper.dropbox.com/doc/Zulip-Bot-Prize-vZuqxEnsfhEReqKucdlfB&quot;&gt;Zulip API Prize&lt;/a&gt; &lt;/li&gt;
+    &lt;ul&gt;
+        &lt;li&gt;$100 for the best bot built on top of Zulip&lt;/li&gt;
+    &lt;/ul&gt;
 &lt;/ul&gt;
-
 &lt;p&gt;Our team has compiled a variety of ideas, and it might as well be the key to you winning the hackathon. The ideas metiones below are meant to be a source of inspiration and is open to interpretation and implementation. Feel free to add in your own unique ideas and modifications to them.&lt;/p&gt;
 
 &lt;h3 id=&quot;blockchain&quot;&gt;Blockchain&lt;/h3&gt;
@@ -93,6 +99,8 @@
     &lt;p&gt;Rural medical care- Medical care in the villages is barely sufficient and lacking in a lot of facilities, which leads to an unfair amount of deaths, how can this be solved?&lt;/p&gt;
   &lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;p&gt;For other good inspiration, we suggest &lt;a href=&quot;https://gist.github.com/tsaqib/9a8ded18603881b76a8f&quot;&gt;this page.&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
