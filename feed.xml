@@ -1,4 +1,111 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2019-12-17T18:45:40+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">Why Attend Hackathons</title><link href="/blog/why-attend-hackathons" rel="alternate" type="text/html" title="Why Attend Hackathons" /><published>2019-12-13T01:00:00+00:00</published><updated>2019-12-13T01:00:00+00:00</updated><id>/blog/why-attend-hackathons</id><content type="html" xml:base="/blog/why-attend-hackathons">&lt;p&gt;Learn more about why you should attend hackathons and what makes HackVerse special!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2020-01-20T10:28:30+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">API Prizes and Hacks!!</title><link href="/blog/hacks" rel="alternate" type="text/html" title="API Prizes and Hacks!!" /><published>2020-01-19T10:00:00+00:00</published><updated>2020-01-19T10:00:00+00:00</updated><id>/blog/hacks</id><content type="html" xml:base="/blog/hacks">&lt;p&gt;All set for the Hackathon but still running short of ideas, we have something in store for you!&lt;/p&gt;
+
+&lt;p&gt;We present to you, API prizes from our sponsors Matic and Zulip. Build on top of these to win exciting prizes! You can find more details of their prizes and guidelines in the following links:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://paper.dropbox.com/doc/Matic-Ethereum-Track-Prize-FToXnL0x0THdKv7C3PaT9&quot;&gt;Matic Etherium API Prize&lt;/a&gt; (The best hack built on Ethereum will be awarded Rs 20,000. Rs 25,000 would be awarded if Matic is also used along with Ethereum.)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://paper.dropbox.com/doc/Zulip-Bot-Prize-vZuqxEnsfhEReqKucdlfB&quot;&gt;Zulip API Prize&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Our team has compiled a variety of ideas, and it might as well be the key to you winning the hackathon. The ideas metiones below are meant to be a source of inspiration and is open to interpretation and implementation. Feel free to add in your own unique ideas and modifications to them.&lt;/p&gt;
+
+&lt;h3 id=&quot;blockchain&quot;&gt;Blockchain&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Elections are under threat from malicious actors that can infiltrate voting machines, alter voter registration databases, coordinated disinformation campaigns, and more. How can you use Blockchain to secure the process?&lt;/li&gt;
+  &lt;li&gt;Intellectual Property : with Blockchain projects creative individuals can have the opportunity to share their content online and be able to prove that they are indeed the creators of said content and hold all intellectual property rights regardless of where it ends up, and everyone else would be aware of this too.&lt;/li&gt;
+  &lt;li&gt;Charitable organizations are obviously a good thing, especially when they actually use their funds for the intended purposes, which is typically to help people. Unfortunately, that is not always the case, and there have been situations in which charitable organizations have been labeled as corrupt and have been involved in unethical activities. Blockchain technology can help remedy this.&lt;/li&gt;
+  &lt;li&gt;Digital IDs : More than 1 billion people worldwide face identity challenges. Creating digital IDs which would give users a way to control their digital identities.&lt;/li&gt;
+  &lt;li&gt;Medical recordkeeping: The good news is the medical sector has already been moving away from paper for recordkeeping purposes for years.&lt;/li&gt;
+  &lt;li&gt;However, blockchain offers even more safety and convenience. In addition to storing patient records, the patient, who possesses the key to access these digital records, would be in control of who gains access to that data.&lt;/li&gt;
+  &lt;li&gt;Weapons tracking : One of the hot-button topics on any news network at the moment is gun control and/or weapons accountability. Blockchain could create a transparent and unchanging registry network that allows law enforcement and the federal government to track gun or weapon ownership, as well as keep a record of weapons sold privately.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;aiml&quot;&gt;AI/ML&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;A system which can do a check-up for emergencies and give short term advice.&lt;/li&gt;
+  &lt;li&gt;Classifying articles or news stories as worth reading or not.&lt;/li&gt;
+  &lt;li&gt;An app for taxi drivers- which will help them to identify which locations to concentrate and go around in loops in order to get maximum customers.&lt;/li&gt;
+  &lt;li&gt;Agriculture has transformed with the advent of irrigation, but irrigation itself requires a certain level of supervision. Develop Irrigation systems which self regulate according to weather patterns.&lt;/li&gt;
+  &lt;li&gt;Depression affects about 20% of adolescents by the time they become adults. Develop Interfaces or chatbots that can help counsel people with issues like depression or anxiety issues and suicidal tendencies.&lt;/li&gt;
+  &lt;li&gt;Personal Health Assistant : The AI in your phone will figure out exactly when and how to wake you up given your health, sleep patterns and time constraints. It will also look into your eating habits and suggest you restaurants and dishes for keeping you in track.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;algorithms&quot;&gt;Algorithms&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Can you devise new algorithms to improve the control of vehicular traffic in crowded cities?&lt;/li&gt;
+  &lt;li&gt;Bitcoin – last year it was claimed that the computing power required to keep the network running consumes as much energy as was used by 159 of the world’s nations. Come up with an implementation which solves the energy problem with your own algorithm.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fin-tech&quot;&gt;Fin-Tech&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Digital Banking:  Enable after-hours banking services with an interactive interface using chatbots and video capabilities. Leveraging on technology to build personal teller service for banking transactions or professional banking consultations for customers after business hours as well.&lt;/li&gt;
+  &lt;li&gt;Alternative Credit Rating: Access to finance &amp;amp; banking facilities remains limited for the unbanked population &amp;amp; businesses in remote areas. A financial/banking app could potentially bridge this gap by sourcing information that can contribute to an alternative credit rating, and subsequently allow other institutions to leverage on it.&lt;/li&gt;
+  &lt;li&gt;Cashback @ Merchants: Finding an ATM can be a challenge and sometimes they may not be in service. Design a solution that allows the withdrawal and deposit of cash from merchants for easier access to cash.&lt;/li&gt;
+  &lt;li&gt;Invoice financing: Invoice duplication and fraud cases in invoice financing can be mitigated by creating a database leveraging on a unique ID for each invoice/document.&lt;/li&gt;
+  &lt;li&gt;Learning Interface for All: Understanding banking instruments and financial systems remains a challenge in Tier 2-3 and rural areas due to language and smartphone usage barriers. Develop a digital solution for awareness generation for this segment to be able to understand and access relevant financial instruments.&lt;/li&gt;
+  &lt;li&gt;Financial and Wealth Management: Wealth Management is resorted to only by the Upper-Class Indians who have significant savings to invest in Alternative Funds. Financial Planning and investment of savings by the middle class and youth is very low. Develop a solution to increase middle class and younger generation participation in Financial Markets to leverage investment of savings.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;future-mobility&quot;&gt;Future Mobility&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Study of flow dynamics of people within a city to improve public transport infrastructure&lt;/li&gt;
+  &lt;li&gt;Monitoring the driver to keep them alert at all times.&lt;/li&gt;
+  &lt;li&gt;Detecting unavoidable Frontal, Rear end, T-bone, and other types of collisions to activate preventive measures.&lt;/li&gt;
+  &lt;li&gt;mycardoeswhat.org datasets as a source of inspiration&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;computer-vision&quot;&gt;Computer Vision&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Written documents to pdf converter application.&lt;/li&gt;
+  &lt;li&gt;Differentiating between recyclable and nonrecyclable was which can be used by robots for automating cleaning&lt;/li&gt;
+  &lt;li&gt;Developing systems that can detect crimes happening from live CCTV feed.&lt;/li&gt;
+  &lt;li&gt;Play from sheet music.&lt;/li&gt;
+  &lt;li&gt;Class attendance and attention monitoring.&lt;/li&gt;
+  &lt;li&gt;Bill splitting with the product and person identification from photos(user need not manually mention items bought by individuals)&lt;/li&gt;
+  &lt;li&gt;Use satellite images to count number of trees and track deforestation and alert authorities.&lt;/li&gt;
+  &lt;li&gt;Smart projection system with presenter detection: Use a camera to detect if the presenter is covering the projection. Use this for assisting the presenter.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ar-vr&quot;&gt;AR-VR&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Developing Virtual reality Technology which can help children interact and help them in studying different subjects.&lt;/li&gt;
+  &lt;li&gt;Augmented reality models with labeling.&lt;/li&gt;
+  &lt;li&gt;Making Technical Documentation using AR.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;open-innovation&quot;&gt;Open Innovation&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Product Costing is an important procedure of business, which helps them to approximate the cost of making a product, Design a system to simplify the same.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Incorrect diagnosis in hospitals often leads to tragic deaths, due to wide information gap between doctors and patients, which makes the patients susceptible to whatever the doctor recommends. How can you help overcome this rising problem?&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Rural medical care- Medical care in the villages is barely sufficient and lacking in a lot of facilities, which leads to an unfair amount of deaths, how can this be solved?&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;https://mlsdev.com/blog/top-10-problems-that-blockchain-technology-solves&lt;/li&gt;
+  &lt;li&gt;https://www.fool.com/investing/2018/04/11/20-real-world-uses-for-blockchain-technology.aspx&lt;/li&gt;
+  &lt;li&gt;https://www.quora.com/What-real-life-problems-will-be-solved-with-Artificial-Intelligence-AI-within-the-next-10-years-i-e-by-2028&lt;/li&gt;
+  &lt;li&gt;https://www.forbes.com/sites/bernardmarr/2018/02/19/the-5-big-problems-with-blockchain-everyone-should-be-aware-of/#71cbc3fa1670&lt;/li&gt;
+  &lt;li&gt;https://gist.github.com/tsaqib/9a8ded18603881b76a8f&lt;/li&gt;
+  &lt;li&gt;https://www.iotworldtoday.com/2016/06/29/10-killer-applications-iot-and-augmented-reality/&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;!-- Add API prizes --&gt;</content><author><name>[&quot;vybhav&quot;, &quot;rahul&quot;, &quot;shubham&quot;]</name></author><category term="hackverse" /><summary type="html">All set for the Hackathon but still running short of ideas, we have something in store for you!</summary></entry><entry><title type="html">Why Attend Hackathons</title><link href="/blog/why-attend-hackathons" rel="alternate" type="text/html" title="Why Attend Hackathons" /><published>2019-12-13T01:00:00+00:00</published><updated>2019-12-13T01:00:00+00:00</updated><id>/blog/why-attend-hackathons</id><content type="html" xml:base="/blog/why-attend-hackathons">&lt;p&gt;Learn more about why you should attend hackathons and what makes HackVerse special!&lt;/p&gt;
 
 &lt;h1 id=&quot;what-is-a-hackathon&quot;&gt;What is a hackathon?&lt;/h1&gt;
 
@@ -14,7 +121,7 @@
 
 &lt;p&gt;Did you know that “GroupMe” a group messaging app acquired by Skype for over $50 million was built during a hackathon? Or the Facebook “Like” button &amp;amp; Facebook chat being built in an internal company hackathon?&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;./assets/images/why-attend/groupme-fb.png&quot; alt=&quot;GroupMe &amp;amp; Facebook&quot; height=&quot;100%&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./assets/images/why-attend/groupme-fb.png&quot; alt=&quot;GroupMe &amp;amp; Facebook&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;There have been countless similar examples that show that hackathons are serious events that can potentially have a long-lasting impact on our day to day lives. And we expect each and everyone coming here to aim for a similar impact, nothing less!&lt;/p&gt;
 
