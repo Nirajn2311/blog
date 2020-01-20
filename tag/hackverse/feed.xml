@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator>
   <link href="/blog/tag/hackverse/feed.xml" rel="self" type="application/atom+xml" />
   <link href="/blog/" rel="alternate" type="text/html" />
-  <updated>2020-01-20T10:28:30+00:00</updated>
+  <updated>2020-01-20T10:50:00+00:00</updated>
   <id>/blog/tag/hackverse/feed.xml</id>
 
   
@@ -146,15 +146,13 @@
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;https://mlsdev.com/blog/top-10-problems-that-blockchain-technology-solves&lt;/li&gt;
-  &lt;li&gt;https://www.fool.com/investing/2018/04/11/20-real-world-uses-for-blockchain-technology.aspx&lt;/li&gt;
-  &lt;li&gt;https://www.quora.com/What-real-life-problems-will-be-solved-with-Artificial-Intelligence-AI-within-the-next-10-years-i-e-by-2028&lt;/li&gt;
-  &lt;li&gt;https://www.forbes.com/sites/bernardmarr/2018/02/19/the-5-big-problems-with-blockchain-everyone-should-be-aware-of/#71cbc3fa1670&lt;/li&gt;
-  &lt;li&gt;https://gist.github.com/tsaqib/9a8ded18603881b76a8f&lt;/li&gt;
-  &lt;li&gt;https://www.iotworldtoday.com/2016/06/29/10-killer-applications-iot-and-augmented-reality/&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;!-- Add API prizes --&gt;</content>
+  &lt;li&gt;&lt;a href=&quot;https://mlsdev.com/blog/top-10-problems-that-blockchain-technology-solves&quot;&gt;https://mlsdev.com/blog/top-10-problems-that-blockchain-technology-solves&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fool.com/investing/2018/04/11/20-real-world-uses-for-blockchain-technology.aspx&quot;&gt;https://www.fool.com/investing/2018/04/11/20-real-world-uses-for-blockchain-technology.aspx&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.quora.com/What-real-life-problems-will-be-solved-with-Artificial-Intelligence-AI-within-the-next-10-years-i-e-by-2028&quot;&gt;https://www.quora.com/What-real-life-problems-will-be-solved-with-Artificial-Intelligence-AI-within-the-next-10-years-i-e-by-2028&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.forbes.com/sites/bernardmarr/2018/02/19/the-5-big-problems-with-blockchain-everyone-should-be-aware-of/#71cbc3fa1670&quot;&gt;https://www.forbes.com/sites/bernardmarr/2018/02/19/the-5-big-problems-with-blockchain-everyone-should-be-aware-of/#71cbc3fa1670&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gist.github.com/tsaqib/9a8ded18603881b76a8f&quot;&gt;https://gist.github.com/tsaqib/9a8ded18603881b76a8f&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iotworldtoday.com/2016/06/29/10-killer-applications-iot-and-augmented-reality/&quot;&gt;https://www.iotworldtoday.com/2016/06/29/10-killer-applications-iot-and-augmented-reality/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content>
 
       
       
