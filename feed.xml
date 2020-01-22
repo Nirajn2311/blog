@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2020-01-20T19:05:14+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">HackVerse’20 API Prizes and Hacks!</title><link href="/blog/hacks" rel="alternate" type="text/html" title="HackVerse'20 API Prizes and Hacks!" /><published>2020-01-19T10:00:00+00:00</published><updated>2020-01-19T10:00:00+00:00</updated><id>/blog/hacks</id><content type="html" xml:base="/blog/hacks">&lt;p&gt;All set for the Hackathon but still running short of ideas, we have something in store for you!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.4">Jekyll</generator><link href="/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="/blog/" rel="alternate" type="text/html" /><updated>2020-01-22T02:32:22+00:00</updated><id>/blog/</id><title type="html">HackVerse Blog</title><subtitle>Hack It, Till You Crack it!</subtitle><entry><title type="html">HackVerse’20 API Prizes and Hacks!</title><link href="/blog/hacks" rel="alternate" type="text/html" title="HackVerse'20 API Prizes and Hacks!" /><published>2020-01-19T10:00:00+00:00</published><updated>2020-01-19T10:00:00+00:00</updated><id>/blog/hacks</id><content type="html" xml:base="/blog/hacks">&lt;p&gt;All set for the Hackathon but still running short of ideas, we have something in store for you!&lt;/p&gt;
 
 &lt;p&gt;We present to you, API prizes from our sponsors Matic and Zulip. Build on top of these to win exciting prizes! You can find more details of their prizes and guidelines in the following links:&lt;/p&gt;
 
@@ -21,8 +21,7 @@
   &lt;li&gt;Elections are under threat from malicious actors that can infiltrate voting machines, alter voter registration databases, coordinated disinformation campaigns, and more. How can you use Blockchain to secure the process?&lt;/li&gt;
   &lt;li&gt;Intellectual Property : with Blockchain projects creative individuals can have the opportunity to share their content online and be able to prove that they are indeed the creators of said content and hold all intellectual property rights regardless of where it ends up, and everyone else would be aware of this too.&lt;/li&gt;
   &lt;li&gt;Charitable organizations are obviously a good thing, especially when they actually use their funds for the intended purposes, which is typically to help people. Unfortunately, that is not always the case, and there have been situations in which charitable organizations have been labeled as corrupt and have been involved in unethical activities. Blockchain technology can help remedy this.&lt;/li&gt;
-  &lt;li&gt;Digital IDs : More than 1 billion people worldwide face identity challenges. Creating digital IDs which would give users a way to control their digital identities.&lt;/li&gt;
-  &lt;li&gt;Medical recordkeeping: The good news is the medical sector has already been moving away from paper for recordkeeping purposes for years.&lt;/li&gt;
+  &lt;li&gt;Digital IDs : More than 1 billion people worldwide face identity challenges. Creating digital IDs which would give users a way to control their digital identities. Medical recordkeeping: The good news is the medical sector has already been moving away from paper for recordkeeping purposes for years.&lt;/li&gt;
   &lt;li&gt;However, blockchain offers even more safety and convenience. In addition to storing patient records, the patient, who possesses the key to access these digital records, would be in control of who gains access to that data.&lt;/li&gt;
   &lt;li&gt;Weapons tracking : One of the hot-button topics on any news network at the moment is gun control and/or weapons accountability. Blockchain could create a transparent and unchanging registry network that allows law enforcement and the federal government to track gun or weapon ownership, as well as keep a record of weapons sold privately.&lt;/li&gt;
 &lt;/ul&gt;
@@ -31,8 +30,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;A system which can do a check-up for emergencies and give short term advice.&lt;/li&gt;
-  &lt;li&gt;Classifying articles or news stories as worth reading or not.&lt;/li&gt;
-  &lt;li&gt;An app for taxi drivers- which will help them to identify which locations to concentrate and go around in loops in order to get maximum customers.&lt;/li&gt;
+  &lt;li&gt;Classifying articles or news stories as potentially misleading or not.&lt;/li&gt;
   &lt;li&gt;Agriculture has transformed with the advent of irrigation, but irrigation itself requires a certain level of supervision. Develop Irrigation systems which self regulate according to weather patterns.&lt;/li&gt;
   &lt;li&gt;Depression affects about 20% of adolescents by the time they become adults. Develop Interfaces or chatbots that can help counsel people with issues like depression or anxiety issues and suicidal tendencies.&lt;/li&gt;
   &lt;li&gt;Personal Health Assistant : The AI in your phone will figure out exactly when and how to wake you up given your health, sleep patterns and time constraints. It will also look into your eating habits and suggest you restaurants and dishes for keeping you in track.&lt;/li&gt;
@@ -42,7 +40,8 @@
 
 &lt;ul&gt;
   &lt;li&gt;Can you devise new algorithms to improve the control of vehicular traffic in crowded cities?&lt;/li&gt;
-  &lt;li&gt;Bitcoin – last year it was claimed that the computing power required to keep the network running consumes as much energy as was used by 159 of the world’s nations. Come up with an implementation which solves the energy problem with your own algorithm.&lt;/li&gt;
+  &lt;li&gt;Bitcoin – last year it was claimed that the computing power required to keep the network running consumes as much energy as was used by 159 of the world’s nations. Come up with an implementation which solves the energy problem with your own Consensus algorithm.&lt;/li&gt;
+  &lt;li&gt;An app for taxi drivers- which will help them to identify which locations to concentrate and go around in loops in order to get maximum customers.&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;h3 id=&quot;fin-tech&quot;&gt;Fin-Tech&lt;/h3&gt;
